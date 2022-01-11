@@ -1,5 +1,5 @@
 ## Hello there 👋
-# *Learning to become a frontend developer* #
+## *Learning to become a frontend developer* #
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=CSS3)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
