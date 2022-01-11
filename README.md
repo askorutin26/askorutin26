@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello there 👋
+
+## Contacts
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askor26)
+
 
 <!--
 **askorutin26/askorutin26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
