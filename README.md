@@ -3,8 +3,10 @@
 
 ### Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-30363d?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![NodeJS]](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![Html5](https://img.shields.io/badge/HTML5-30363d?style=for-the-badge&logo=html5)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-30363d?style=for-the-badge&logo=CSS3)](https://www.w3schools.com/css/)
+
 ### Contact me:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/askor26)
