@@ -9,11 +9,11 @@
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 <h2>Projects</h2>
-[Chat](https://github.com/askorutin26/Chat)
-[ToDo App](https://github.com/askorutin26/todo-list)
-[RSS Feed](https://github.com/askorutin26/RSS-Agregator)
-[Difference Calculator](https://github.com/askorutin26/Gendiff)
-[Brain games](https://github.com/askorutin26/Brain-games)
+![Chat](https://github.com/askorutin26/Chat)
+![ToDo App](https://github.com/askorutin26/todo-list)
+![RSS Feed](https://github.com/askorutin26/RSS-Agregator)
+![Difference Calculator](https://github.com/askorutin26/Gendiff)
+![Brain games](https://github.com/askorutin26/Brain-games)
 
 <h2>Contact me:</h2>
 
