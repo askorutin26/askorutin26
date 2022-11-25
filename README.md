@@ -10,6 +10,10 @@
 <h2>Projects</h2>
 
 [Chat](https://github.com/askorutin26/Chat)
+[ToDo List](https://github.com/askorutin26/todo-list)
+[Rss Feed](https://github.com/askorutin26/RSS-Agregator)
+[Difference Calculator](https://github.com/askorutin26/Gendiff)
+[Brain Games](https://github.com/askorutin26/Brain-games)
 
 <h2>Contact me:</h2>
 
