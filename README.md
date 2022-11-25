@@ -11,10 +11,7 @@
 
 <h2>Projects</h2>
 [Chat](https://github.com/askorutin26/Chat)
-[ToDo App](https://github.com/askorutin26/todo-list)
-[RSS Agregator](https://frontend-project-lvl3-beryl.vercel.app/)
-[Difference Calculator](https://github.com/askorutin26/Gendiff)
-[Brain games](https://github.com/askorutin26/Brain-games)
+
 
 <h2>Contact me:</h2>
 
