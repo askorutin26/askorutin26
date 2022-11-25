@@ -1,5 +1,5 @@
 <h1>Hello There!</h1>
-<h2>I'm styding frontend development</h2>
+<h2>I'm styding frontend</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -9,11 +9,11 @@
 
 <h2>Projects</h2>
 
-[Chat](https://github.com/askorutin26/Chat)<br>
-[ToDo List](https://github.com/askorutin26/todo-list)<br>
-[Rss Feed](https://github.com/askorutin26/RSS-Agregator)<br>
-[Difference Calculator](https://github.com/askorutin26/Gendiff)<br>
-[Brain Games](https://github.com/askorutin26/Brain-games)
+<h3>[Chat](https://github.com/askorutin26/Chat)</h3><br>
+<h3>[ToDo List](https://github.com/askorutin26/todo-list)</h3><br>
+<h3>[Rss Feed](https://github.com/askorutin26/RSS-Agregator)</h3><br>
+<h3>[Difference Calculator](https://github.com/askorutin26/Gendiff)</h3><br>
+<h3>[Brain Games](https://github.com/askorutin26/Brain-games)</h3>
 
 <h2>Contact me:</h2>
 
