@@ -8,6 +8,13 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
+<h2>Projects</h2>
+# [Chat](https://github.com/askorutin26/Chat))
+# [ToDo App](https://github.com/askorutin26/todo-list))
+# [RSS Feed](https://github.com/askorutin26/RSS-Agregator))
+# [Difference Calculator]([https://todo-6114a.firebaseapp.com/](https://github.com/askorutin26/Gendiff))
+# [Brain games]([https://todo-6114a.firebaseapp.com/](https://github.com/askorutin26/Brain-games))
+
 <h2>Contact me:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)<br>
