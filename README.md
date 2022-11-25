@@ -8,11 +8,6 @@
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-
-<h2>Projects</h2>
-[Chat](https://github.com/askorutin26/Chat)
-
-
 <h2>Contact me:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)<br>
