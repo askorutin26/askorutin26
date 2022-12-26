@@ -9,6 +9,7 @@
 
 <h2>Projects</h2>
 
+[ToDo](https://github.com/askorutin26/todo-list)</br>
 [Chat](https://github.com/askorutin26/Chat)<br>
 [Rss Feed](https://github.com/askorutin26/RSS-Agregator)<br>
 [Difference Calculator](https://github.com/askorutin26/Gendiff)<br>
