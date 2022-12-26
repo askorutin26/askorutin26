@@ -1,5 +1,6 @@
-<h2> Hello There!</br>
-I'm a Frontend developer looking for a job </h2>
+<h2> Hello There!</h2>
+
+I'm a Frontend developer looking for a job
 
 <h2>Tools:</h2>
 
