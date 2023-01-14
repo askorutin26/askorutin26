@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)<br/>
 I'm a Frontend developer looking for a job
 
-<span style="color:aqua">some *blue* text</span>
+<span style="color:blue">some *blue* text</span>
 <h2>Tools:</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
