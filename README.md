@@ -18,5 +18,5 @@
 
 <h2>Contacts:</h2>
 
-[![Gmail]([[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://icons8.com/icon/37246/gmail-logo)](https://icons8.com/icon/37246/gmail-logo)](mailto:askorutin26@gmail.com)<br>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://icons8.com/icon/37246/gmail-logo)](https://icons8.com/icon/37246/gmail-logo)](mailto:askorutin26@gmail.com)<br>
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/askor26)
