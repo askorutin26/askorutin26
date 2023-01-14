@@ -17,7 +17,5 @@
 [Brain Games](https://github.com/askorutin26/Brain-games)
 
 <h2>Contacts:</h2>
-
-📧 askorutin26@gmail.com </br>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/askor26)
