@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)<br/>
 I'm a Frontend developer looking for a job
 
 <h2>Tools:</h2>
