@@ -18,5 +18,6 @@
 
 <h2>Contacts:</h2>
 
-📧 askorutin26@gmail.com
+📧 askorutin26@gmail.com </br>
+<img src="https://www.freepnglogos.com/images/logo-gmail-9952.html" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 [![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/askor26)
