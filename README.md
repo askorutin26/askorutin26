@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)<br/>
-I'm a Frontend developer looking for a job</br>
+I'm frontend developer looking for a job</br>
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=2300&pause=200&color=0ECBF7&background=FFFFFF&multiline=true&repeat=false&width=300&lines=%2Fgithub.com%2Faskorutin26%24)](https://git.io/typing-svg)
 <h2>Tools:</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
