@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=40&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)
 <h2>Stack:</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
