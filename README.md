@@ -2,6 +2,7 @@
 I'm frontend developer looking for a job</br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=2300&pause=200&color=0ECBF7&background=FFFFFF&multiline=true&repeat=false&width=290&lines=%2Fgithub.com%2Faskorutin26%24)](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=2300&pause=200&color=0ECBF7&background=FFFFFF&multiline=true&repeat=false&width=290&lines=%2Fgithub.com%2Faskorutin26%24)](https://git.io/typing-svg)
+
 <h2>Tools:</h2>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
