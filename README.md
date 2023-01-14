@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Raleway&size=30&pause=1000&color=44F7F5&width=435&lines=Hello+there!)](https://git.io/typing-svg)<br/>
 I'm frontend developer looking for a job</br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=1000&pause=200&color=0ECBF7&background=FFFFFF&multiline=true&repeat=false&width=290&lines=%2Fgithub.com%2Faskorutin26%24)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=1200&pause=600&color=0ECBF7&background=FFFFFF&multiline=true&width=100&lines=get+info)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=1000&pause=200&color=0ECBF7&background=FFFFFF&multiline=true&repeat=false&width=290&lines=%2Fgithub.com%2Faskorutin26%24)](https://git.io/typing-svg)[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=1200&pause=600&color=0ECBF7&background=FFFFFF&multiline=true&width=100&lines=get+info)](https://git.io/typing-svg)</br>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&size=25&duration=1200&pause=10&color=0ECBF7&background=FFFFFF&multiline=true&width=150&height=250&lines=Tools%3A;-+JavaScript;-+NodeJs;-+React;-+Redux;-+HTML;-+CSS)](https://git.io/typing-svg)
 <h2>Projects</h2>
 
