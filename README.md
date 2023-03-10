@@ -10,7 +10,7 @@
 
 <h2>Projects:</h2>
 
-[ToDo](https://github.com/askorutin26/todo-list)</br>
+[Notes](https://github.com/askorutin26/NotesApp)</br>
 [Chat](https://github.com/askorutin26/Chat)<br>
 [Rss Feed](https://github.com/askorutin26/RSS-Agregator)<br>
 [Difference Calculator](https://github.com/askorutin26/Gendiff)<br>
@@ -19,4 +19,4 @@
 <h2>Contacts:</h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askorutin26@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-30363d?style=for-the-badge&logo=Telegram)](https://t.me/askor26)
+
